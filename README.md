@@ -57,15 +57,22 @@
 <br/>
 
   
-## My Activities
+## My Activities :zap:
 <details>
     <summary>Click for activity details</summary>
+  
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+  
 </details>
     
 <br/>
-    
+  
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
+  
 <div align="center">
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=KarsMurat&left_text=My%20Page%20Visitors)
