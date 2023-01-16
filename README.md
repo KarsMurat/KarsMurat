@@ -34,7 +34,7 @@
 </div>
  
 <div align="center">
-<a href="https://github.com/KarsMurat">
+<a href="https://github.com/KarsMurat/Personal-Website">
   <img align="center" src="https://github-stats.muratkars.live/api/pin/?username=KarsMurat&repo=Personal-Website&show_owner=true&theme=react&hide_border=true" />
 </a>
 </div>
