@@ -64,8 +64,11 @@
     
 <br/>
     
+
 <div align="center">
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=KarsMurat&left_text=Github%20Page%20Visitors)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=KarsMurat&left_text=My%20Page%20Visitors)
+
 </div>
 
 <br/>
