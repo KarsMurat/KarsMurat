@@ -63,13 +63,17 @@
   
 ---
   
-## My Activities :zap:
+## My Recent Activities :zap:
 <details>
-    <summary>Click for activity details</summary>
+    <summary>Click for list of my most recent activity on GitHub.</summary>
   
 <!--START_SECTION:activity-->
   
 <!--END_SECTION:activity-->
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
   
 </details>
     
