@@ -62,36 +62,9 @@
 <br/>
   
 ---
-  
-## My Recent Activities :zap:
-<details>
-    <summary>Click for list of my most recent activity on GitHub.</summary>
 
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->
-  
-</details>
-    
-<br/>
-  
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->  
-  
----
-  
-<!--START_SECTION:waka-->
-  
-<!--END_SECTION:waka-->
-
-  ---
 <div align="center">
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=KarsMurat&left_text=My%20Page%20Visitors)
 
 </div>
-
-<br/>
-    
-
