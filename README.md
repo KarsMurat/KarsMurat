@@ -1,12 +1,10 @@
 <div align="center">
 
-## Hi there 👋
+### Hi there 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=740000&center=true&vCenter=true&width=435&lines=Welcome+to+my+page%2C+this+is+Murat)
 
 </div>
-
-<br/>
 
 ---
 
@@ -23,11 +21,9 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="/img/javascript-original.svg" alt="JavaScript" height="75" /></a>  
 </div>
   
-<br/>
+---
   
-  ---
-  
- ## Stats
+# Stats
 <div align="center">
 <a href="https://github.com/KarsMurat">
   <img align="center" src="https://github-stats.muratkars.live/api/top-langs/?username=KarsMurat&layout=compact&theme=react&hide_border=true&langs_count=10" />
@@ -43,8 +39,6 @@
 </a>
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
@@ -59,8 +53,6 @@
 </a>
 </div>
 
-<br/>
-  
 ---
 
 <div align="center">
