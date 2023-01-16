@@ -68,6 +68,7 @@
     <summary>Click for activity details</summary>
   
 <!--START_SECTION:activity-->
+  
 <!--END_SECTION:activity-->
   
 </details>
@@ -75,7 +76,9 @@
 <br/>
   
 ---
+  
 <!--START_SECTION:waka-->
+  
 <!--END_SECTION:waka-->
 
   ---
