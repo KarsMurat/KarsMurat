@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=740000&center=true&vCenter=true&width=435&lines=Welcome+to+my+page%2C+this+is+Murat)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=61DBFB&background=0d1117&center=true&vCenter=true&width=435&lines=Welcome+to+my+page%2C+this+is+Murat)
 
 </div>
 
@@ -13,12 +13,12 @@
 # Languages and Tools
 
 <div align="center">    
-<a target="_blank"><img style="margin: 10px" src="/img/html5-original-wordmark.svg" alt="HTML5" title="HTML5" height="75" /></a> 
-<a target="_blank"><img style="margin: 10px" src="/img/css3-original-wordmark.svg" alt="CSS3" title="CSS3" height="75" /></a>  
+<a target="_blank"><img style="margin: 10px" src="/img/html5.svg" alt="HTML5" title="HTML5" height="75" /></a> 
+<a target="_blank"><img style="margin: 10px" src="/img/css3.svg" alt="CSS3" title="CSS3" height="75" /></a>  
 <a target="_blank"><img style="margin: 10px" src="/img/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" height="75" /></a>  
-<a target="_blank"><img style="margin: 10px" src="/img/javascript-original.svg" alt="JavaScript" title="JavaScript" height="75" /></a> 
-<a target="_blank"><img style="margin: 10px" src="/img/nextjs.png" alt="NextJS" title="NextJS" height="75" /></a> 
-<a target="_blank"><img style="margin: 10px" src="/img/react-original-wordmark.svg" alt="React" title="React" height="75" /></a>  
+<a target="_blank"><img style="margin: 10px" src="/img/javascript.svg" alt="JavaScript" title="JavaScript" height="75" /></a> 
+<a target="_blank"><img style="margin: 10px" src="/img/nextjs.svg" alt="NextJS" title="NextJS" height="75" /></a> 
+<a target="_blank"><img style="margin: 10px" src="/img/react.svg" alt="React" title="React" height="75" /></a>  
 </div>
   
 ---
