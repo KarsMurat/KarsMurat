@@ -12,22 +12,6 @@
 
 <div align="center">
 
-# Connect with me
-
-</div>
-
-<div align="center">
-<a href="https://github.com/KarsMurat" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
 # Languages and Tools
 
 <div align="center">  
@@ -56,6 +40,22 @@
 <div align="center">
 <a href="https://github.com/KarsMurat">
   <img align="center" src="https://github-stats.muratkars.live/api/pin/?username=KarsMurat&repo=Personal-Website&show_owner=true&theme=react&hide_border=true" />
+</a>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+# Connect with me
+
+</div>
+
+<div align="center">
+<a href="https://github.com/KarsMurat" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 </div>
 
