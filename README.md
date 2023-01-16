@@ -41,21 +41,22 @@
  ## Stats
 <div align="center">
 <a href="https://github.com/KarsMurat">
-  <img align="center" src="https://github-stats.muratkars.live/api/top-langs/?username=KarsMurat&theme=react&hide_border=true&langs_count=10&layout=compact" />
+  <img align="center" src="https://github-stats.muratkars.live/api/top-langs/?username=KarsMurat&layout=compact&theme=react&hide_border=true&langs_count=10" />
 </a>
 <a href="https://github.com/KarsMurat">
-  <img align="center" src="https://github-stats.muratkars.live/api?username=KarsMurat&theme=react&hide_border=true&include_all_commits=true&show_icons=true" />
+  <img align="center" src="https://github-stats.muratkars.live/api?username=KarsMurat&theme=react&hide_border=true&include_all_commits=true&show_icons=true&hide_rank=true" />
 </a>
 </div>
-
+ 
 <div align="center">
 <a href="https://github.com/KarsMurat">
-  <img align="center" src="https://github-stats.muratkars.live/api/pin/?username=KarsMurat&repo=Personal-Website&theme=react&hide_border=true" />
+  <img align="center" src="https://github-stats.muratkars.live/api/pin/?username=KarsMurat&repo=Personal-Website&show_owner=true&theme=react&hide_border=true" />
 </a>
 </div>
 
 <br/>
 
+  
 ## My Activities
 <details>
     <summary>Click for activity details</summary>
