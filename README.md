@@ -8,6 +8,8 @@
 
 <br/>
 
+---
+
 <div align="center">
 
 # Connect with me
@@ -21,6 +23,8 @@
 </div>
 
 <br/>
+
+---
 
 <div align="center">
 
@@ -37,6 +41,7 @@
   
 <br/>
   
+  ---
   
  ## Stats
 <div align="center">
@@ -55,7 +60,8 @@
 </div>
 
 <br/>
-
+  
+---
   
 ## My Activities :zap:
 <details>
@@ -68,11 +74,11 @@
     
 <br/>
   
-  
+---
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-  
+  ---
 <div align="center">
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=KarsMurat&left_text=My%20Page%20Visitors)
