@@ -1,9 +1,12 @@
 <div align="center">
 
 ### Hi there 👋
+</div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=61DBFB&background=0d1117&center=true&vCenter=true&width=435&lines=Welcome+to+my+page%2C+this+is+Murat)
-
+<div align="center">
+<a href="https://github.com/KarsMurat" target="_blank">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=61DBFB&background=0d1117&center=true&vCenter=true&width=435&lines=Welcome+to+my+page%2C+this+is+Murat" />
+</a>
 </div>
 
 ---
@@ -13,12 +16,12 @@
 # Languages and Tools
 
 <div align="center">    
-<a target="_blank"><img style="margin: 10px" src="/img/html5.svg" alt="HTML5" title="HTML5" height="75" /></a> 
-<a target="_blank"><img style="margin: 10px" src="/img/css3.svg" alt="CSS3" title="CSS3" height="75" /></a>  
-<a target="_blank"><img style="margin: 10px" src="/img/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" height="75" /></a>  
-<a target="_blank"><img style="margin: 10px" src="/img/javascript.svg" alt="JavaScript" title="JavaScript" height="75" /></a> 
-<a target="_blank"><img style="margin: 10px" src="/img/nextjs.svg" alt="NextJS" title="NextJS" height="75" /></a> 
-<a target="_blank"><img style="margin: 10px" src="/img/react.svg" alt="React" title="React" height="75" /></a>  
+<a href="https://github.com/KarsMurat" target="_blank"><img style="margin: 10px" src="/img/html5.svg" alt="HTML5" title="HTML5" height="75" /></a> 
+<a href="https://github.com/KarsMurat" target="_blank"><img style="margin: 10px" src="/img/css3.svg" alt="CSS3" title="CSS3" height="75" /></a>  
+<a href="https://github.com/KarsMurat" target="_blank"><img style="margin: 10px" src="/img/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" height="75" /></a>
+  <a href="https://github.com/KarsMurat" target="_blank"><img style="margin: 10px" src="/img/javascript.svg" alt="JavaScript" title="JavaScript" height="75" /></a> 
+<a href="https://github.com/KarsMurat" target="_blank"><img style="margin: 10px" src="/img/nextjs.svg" alt="NextJS" title="NextJS" height="75" /></a> 
+<a href="https://github.com/KarsMurat" target="_blank"><img style="margin: 10px" src="/img/react.svg" alt="React" title="React" height="75" /></a>  
 </div>
   
 ---
@@ -56,7 +59,7 @@
 ---
 
 <div align="center">
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=KarsMurat&left_text=My%20Page%20Visitors)
-
+<a href="https://github.com/KarsMurat" target="_blank">
+<img src="https://visitor-badge.glitch.me/badge?page_id=KarsMurat&left_text=My%20Page%20Visitors" />
+</a>
 </div>
