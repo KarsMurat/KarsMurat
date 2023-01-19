@@ -19,7 +19,6 @@
 <a href="https://github.com/KarsMurat" target="_blank"><img style="margin: 10px" src="/img/html5.svg" alt="HTML5" title="HTML5" height="75" /></a> 
 <a href="https://github.com/KarsMurat" target="_blank"><img style="margin: 10px" src="/img/css3.svg" alt="CSS3" title="CSS3" height="75" /></a>  
 <a href="https://github.com/KarsMurat" target="_blank"><img style="margin: 10px" src="/img/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" height="75" /></a>
-  <a href="https://github.com/KarsMurat" target="_blank"><img style="margin: 10px" src="/img/javascript.svg" alt="JavaScript" title="JavaScript" height="75" /></a> 
 <a href="https://github.com/KarsMurat" target="_blank"><img style="margin: 10px" src="/img/nextjs.svg" alt="NextJS" title="NextJS" height="75" /></a> 
 <a href="https://github.com/KarsMurat" target="_blank"><img style="margin: 10px" src="/img/react.svg" alt="React" title="React" height="75" /></a>  
 </div>
@@ -29,7 +28,7 @@
 # Stats
 <div align="center">
 <a href="https://github.com/KarsMurat/Personal-Website">
-  <img align="center" src="https://github-stats.muratkars.live/api/pin/?username=KarsMurat&repo=Personal-Website&show_owner=true&theme=react&hide_border=true" />
+  <img align="center" src="https://github-stats.muratkars.live/api/pin/?username=KarsMurat&repo=Personal-Portfolio-Website&show_owner=true&theme=react&hide_border=true" />
 </a>
 <a href="https://github.com/KarsMurat">
   <img align="center" src="https://github-stats.muratkars.live/api/top-langs/?username=KarsMurat&layout=compact&theme=react&hide_border=true&langs_count=10" />
