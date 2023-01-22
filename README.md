@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there 👋
+## Hi there 👋
 
 </div>
 
@@ -14,19 +14,19 @@
 
 <div align="center">
 
-# 🖥️ Languages and Tools
+## 🖥️ Languages and Tools
 
 <div align="center">    
-<a href="https://github.com/KarsMurat" target="_blank"><img style="margin: 10px" src="/img/html5.svg" alt="HTML5" title="HTML5" height="75" /></a> 
-<a href="https://github.com/KarsMurat" target="_blank"><img style="margin: 10px" src="/img/css3.svg" alt="CSS3" title="CSS3" height="75" /></a>  
-<a href="https://github.com/KarsMurat" target="_blank"><img style="margin: 10px" src="/img/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" height="75" /></a>
-<a href="https://github.com/KarsMurat" target="_blank"><img style="margin: 10px" src="/img/nextjs.svg" alt="NextJS" title="NextJS" height="75" /></a> 
-<a href="https://github.com/KarsMurat" target="_blank"><img style="margin: 10px" src="/img/react.svg" alt="React" title="React" height="75" /></a>  
+<a href="https://github.com/KarsMurat" target="_blank"><img style="margin: 10px" src="/img/html5.svg" alt="HTML5" title="HTML5" height="50" /></a> 
+<a href="https://github.com/KarsMurat" target="_blank"><img style="margin: 10px" src="/img/css3.svg" alt="CSS3" title="CSS3" height="50" /></a>  
+<a href="https://github.com/KarsMurat" target="_blank"><img style="margin: 10px" src="/img/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" height="50" /></a>
+<a href="https://github.com/KarsMurat" target="_blank"><img style="margin: 10px" src="/img/nextjs.svg" alt="NextJS" title="NextJS" height="50" /></a> 
+<a href="https://github.com/KarsMurat" target="_blank"><img style="margin: 10px" src="/img/react.svg" alt="React" title="React" height="50" /></a>  
 </div>
   
 ---
   
-# 📊 Stats
+## 📊 Stats
 <div align="center">
 <a href="https://github.com/KarsMurat/Personal-Website">
   <img align="center" src="https://github-stats.muratkars.live/api/pin/?username=KarsMurat&repo=Personal-Portfolio-Website&show_owner=true&theme=react&hide_border=true" />
@@ -48,19 +48,19 @@
 
 <div align="center">
 
-# ✉️ Contact with Me
+## ✉️ Contact with Me
 
 </div>
 
 <div align="center">
 <a href="https://github.com/KarsMurat" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin: 5px; border-radius: 5px;" />
 </a>
 <a href="https://app.patika.dev/muratkars" target="_blank">
-<img src=https://img.shields.io/badge/PAT%C4%B0KA-FEBF5E?style=for-the-badge alt=patika style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/PAT%C4%B0KA-FEBF5E?style=for-the-badge alt=patika style="margin: 5px; border-radius: 5px" />
 </a>
 <a href="https://www.muratkars.live" target="_blank">
-<img src=https://img.shields.io/badge/PORTFOLIO-61DBFB?style=for-the-badge alt=patika style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/PORTFOLIO-61DBFB?style=for-the-badge alt=portfolio style="margin: 5px; border-radius: 5px" />
 </a>
 </div>
 
