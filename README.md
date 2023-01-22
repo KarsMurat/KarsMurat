@@ -56,10 +56,10 @@
 <a href="https://github.com/KarsMurat" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/KarsMurat" target="_blank">
+<a href="https://app.patika.dev/muratkars" target="_blank">
 <img src=https://img.shields.io/badge/PAT%C4%B0KA-FEBF5E?style=for-the-badge alt=patika style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/KarsMurat" target="_blank">
+<a href="https://www.muratkars.live" target="_blank">
 <img src=https://img.shields.io/badge/PORTFOLIO-61DBFB?style=for-the-badge alt=patika style="margin-bottom: 5px;" />
 </a>
 </div>
