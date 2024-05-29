@@ -6,7 +6,7 @@
 
 <div align="center">
 <a href="https://github.com/KarsMurat" target="_blank">
-<img src="https://readme-typing-svg.muratkars.live?font=Fira+Code&duration=2000&pause=1000&color=61DBFB&background=0d1117&center=true&vCenter=true&width=435&lines=Welcome+to+my+page%2C+this+is+Murat" />
+<img src="https://readme-typing-svg.muratkars.tech?font=Fira+Code&duration=2000&pause=1000&color=61DBFB&background=0d1117&center=true&vCenter=true&width=435&lines=Welcome+to+my+page%2C+this+is+Murat" />
 </a>
 </div>
 
@@ -29,20 +29,20 @@
 ## 📊 Stats
 <div align="center">
 <a href="https://github.com/KarsMurat/Personal-Website">
-  <img align="center" src="https://github-stats.muratkars.live/api/pin/?username=KarsMurat&repo=Personal-Portfolio-Website&show_owner=true&theme=react&hide_border=true" />
+  <img align="center" src="https://github-stats.muratkars.tech/api/pin/?username=KarsMurat&repo=Personal-Portfolio-Website&show_owner=true&theme=react&hide_border=true" />
 </a>
 <a href="https://github.com/KarsMurat">
-  <img align="center" src="https://github-stats.muratkars.live/api/top-langs/?username=KarsMurat&layout=compact&theme=react&hide_border=true&langs_count=10" />
+  <img align="center" src="https://github-stats.muratkars.tech/api/top-langs/?username=KarsMurat&layout=compact&theme=react&hide_border=true&langs_count=10" />
 </a>
 </div>
  
 <div align="center"> 
 <a href="https://github.com/KarsMurat">
-  <img align="center" src="https://github-stats.muratkars.live/api?username=KarsMurat&theme=react&hide_border=true&include_all_commits=true&show_icons=true&hide_rank=true" />
+  <img align="center" src="https://github-stats.muratkars.tech/api?username=KarsMurat&theme=react&hide_border=true&include_all_commits=true&show_icons=true&hide_rank=true" />
 </a>
 </div>
 
-[![Murat Kars's github activity graph](https://github-readme-activity-graph.muratkars.live/graph?username=KarsMurat&theme=react-dark&hide_border=true&radius=8)](https://github.com/KarsMurat)
+[![Murat Kars's github activity graph](https://github-readme-activity-graph.muratkars.tech/graph?username=KarsMurat&theme=react-dark&hide_border=true&radius=8)](https://github.com/KarsMurat)
 
 ---
 
@@ -59,7 +59,7 @@
 <a href="https://app.patika.dev/muratkars" target="_blank">
 <img src=https://img.shields.io/badge/PAT%C4%B0KA-FEBF5E?style=for-the-badge alt=patika style="margin: 5px; border-radius: 5px" />
 </a>
-<a href="https://www.muratkars.live" target="_blank">
+<a href="https://www.muratkars.tech" target="_blank">
 <img src=https://img.shields.io/badge/PORTFOLIO-61DBFB?style=for-the-badge alt=portfolio style="margin: 5px; border-radius: 5px" />
 </a>
 </div>
